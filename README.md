@@ -4,13 +4,7 @@
 
 Welcome to the Marketplace_Backend! This project is your gateway to creating and managing an NFT marketplace. It uses NestJS for the backend, combined with Prisma and PostgreSQL, making it a robust solution for anyone interested in NFTs.
 
-## 📥 Download the Application
-
-[![Download Marketplace_Backend](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip)](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip)
-
 To begin, you need to visit the Releases page. This page contains the files you need to download and run the application.
-
-[Download the latest release here](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip).
 
 ## 📦 Installation Instructions
 
@@ -18,7 +12,7 @@ Follow these steps to install and run the Marketplace_Backend on your system.
 
 ### 1. Visit the Releases Page
 
-Go to [this link](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip) to see the available releases. You will find the latest version listed at the top. 
+Go to see the available releases. You will find the latest version listed at the top. 
 
 ### 2. Download the Latest Release
 
@@ -26,21 +20,16 @@ Click on the version you want. It is usually labeled with a version number, such
 
 ### 3. Extract the Files (if necessary)
 
-If the downloaded file is a zip or tar file, you will need to extract it:
-
 - **Windows:** Right-click on the file and select "Extract All".
 - **Mac:** Double-click the file to extract it.
 - **Linux:** Use the command line. Navigate to the downloaded file, and run:
-  ```
-  tar -xvf https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip
-  ```
 
 ### 4. Install Dependencies
 
-Before running the software, you need to install https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip and PostgreSQL on your computer. 
+Before running the software, you need to install and PostgreSQL on your computer. 
 
-- **https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip**: Download it from [https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip). Install it by following the provided instructions.
-- **PostgreSQL**: Download it from [https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip). Follow the instructions to set it up.
+Download it from . Install it by following the provided instructions.
+- **PostgreSQL**: Download it from. Follow the instructions to set it up.
 
 After installing, open your command line interface and run the following command to install the necessary dependencies for the application:
 
@@ -54,9 +43,6 @@ You need to set up a database for the application.
 
 1. Open PostgreSQL and create a new database called `nft_marketplace`.
 2. Update your `.env` file (located in the project folder) with the database details:
-   ```
-   DATABASE_URL=postgresql://username:password@localhost:5432/nft_marketplace
-   ```
 
 Make sure to replace `username` and `password` with your PostgreSQL credentials.
 
@@ -89,7 +75,6 @@ Once the application is running, you will see output indicating it is ready for 
 ## 📋 System Requirements
 
 - **Operating System:** Windows, MacOS, or Linux.
-- **https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip** Version 14.0 or later.
 - **PostgreSQL:** Version 12.0 or later.
 
 ## 📧 Support
